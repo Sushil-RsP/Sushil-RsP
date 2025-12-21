@@ -18,22 +18,22 @@
 ## 📌 Featured Projects
 **📊 Data Analytics & BI**
 
-🔹 Adidas Sales Analysis – EDA & KPI analysis on $900M+ sales data
-🔹 Blinkit Sales & Outlet Analysis – Retail EDA on 8,523 records
-🔹 Udemy Analytics Dashboard – Power BI dashboard analyzing course performance, revenue, and enrollments
-🔹 Pune Zomato Restaurant Dashboard – Restaurant data analysis with insights on locations, cuisines, ratings, and pricing
+- Adidas Sales Analysis – EDA & KPI analysis on $900M+ sales data
+- Blinkit Sales & Outlet Analysis – Retail EDA on 8,523 records
+- Udemy Analytics Dashboard – Power BI dashboard analyzing course performance, revenue, and enrollments
+- Pune Zomato Restaurant Dashboard – Restaurant data analysis with insights on locations, cuisines, ratings, and pricing
 
 **🤖 Data Science & AI**
 
-🔹 Data Analyst Agent – LLM-powered assistant for automated EDA and query answering
-🔹 LexiMind – NLP-based legal document classification and semantic similarity search
+- Data Analyst Agent – LLM-powered assistant for automated EDA and query answering
+- LexiMind – NLP-based legal document classification and semantic similarity search
 
 **🧠 Machine Learning & Computer Vision**
 
-🔹 DogCat Classifier – CNN-based image classification using TensorFlow
-🔹 Smart Farming with Drone Imaging – NDVI analysis and image segmentation for crop health monitoring
-🔹 Car Suggestion System – ML-powered recommender system built with Django
-🔹 Weather Prediction Web App – ML-based weather forecasting using Django
+- DogCat Classifier – CNN-based image classification using TensorFlow
+- Smart Farming with Drone Imaging – NDVI analysis and image segmentation for crop health monitoring
+- Car Suggestion System – ML-powered recommender system built with Django
+- Weather Prediction Web App – ML-based weather forecasting using Django
 
 ---
 
