@@ -37,8 +37,11 @@
 
 ---
 
-👉 View my portfolio:  
+👉 View my Portfolio:  
 🌐 https://sushil-rsp.github.io/Portfolio_/
+
+### 📸 Portfolio Preview  
+[![Portfolio Preview](Screenshot%202025-12-21%20163432.png)](https://sushil-rsp.github.io/Portfolio_/)
 
 ---
 
