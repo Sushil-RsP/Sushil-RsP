@@ -29,4 +29,4 @@
 
 ## 📫 Connect With Me
 - 📧 Email: sushilchavan2468@gmail.com
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: [*(add your LinkedIn link here)*](https://www.linkedin.com/in/sushil-chavan-506263257/)
