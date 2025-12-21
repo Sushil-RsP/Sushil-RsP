@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sushil Chavan 👋
 
-<!--
-**Sushil-RsP/Sushil-RsP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Aspiring Data Scientist & ML Engineer  
+📊 Passionate about EDA, dashboards, and data-driven insights  
+🚀 Building real-world analytics and AI projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Programming:** Python (Pandas, NumPy, Scikit-learn)
+- **Data Analysis:** EDA, Data Cleaning, Feature Engineering
+- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Machine Learning:** Regression, Classification, CNN, NLP
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+🔹 **Adidas Sales Analysis** – EDA & KPI analysis on $900M+ sales data  
+🔹 **Blinkit Sales & Outlet Analysis** – Retail EDA on 8,523 records  
+🔹 **Data Analyst Agent** – LLM-powered EDA assistant  
+🔹 **LexiMind** – NLP-based legal document analysis  
+🔹 **Smart Farming with Drone Imaging** – NDVI & CV analysis
+
+👉 View my portfolio:  
+🌐 https://sushil-rsp.github.io/Portfolio_/
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: sushilchavan2468@gmail.com
+- 💼 LinkedIn: *(add your LinkedIn link here)*
