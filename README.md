@@ -27,9 +27,11 @@
 
 - Data Analyst Agent – LLM-powered assistant for automated EDA and query answering
 - LexiMind – NLP-based legal document classification and semantic similarity search
+- Bank-Term-Deposit-Prediction-System
 
 **🧠 Machine Learning & Computer Vision**
 
+- Bank-Term-Deposit-Prediction-System
 - DogCat Classifier – CNN-based image classification using TensorFlow
 - Smart Farming with Drone Imaging – NDVI analysis and image segmentation for crop health monitoring
 - Car Suggestion System – ML-powered recommender system built with Django
