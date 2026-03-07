@@ -32,6 +32,7 @@
 **🧠 Machine Learning & Computer Vision**
 
 - Bank-Term-Deposit-Prediction-System
+- Face Mask Detection using CNN - CNN-based image classification using TensorFlow and OpenCV
 - DogCat Classifier – CNN-based image classification using TensorFlow
 - Smart Farming with Drone Imaging – NDVI analysis and image segmentation for crop health monitoring
 - Car Suggestion System – ML-powered recommender system built with Django
