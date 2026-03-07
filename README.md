@@ -7,10 +7,10 @@
 ---
 
 ## 🔧 Skills
-- **Programming:** Python (Pandas, NumPy, Scikit-learn)
+- **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow)
 - **Data Analysis:** EDA, Data Cleaning, Feature Engineering
-- **Visualization:** Power BI, Matplotlib, Seaborn
-- **Machine Learning:** Regression, Classification, CNN, NLP
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Machine Learning:** Regression, Classification, CNN, NLP, ANN
 - **Tools:** Git, GitHub, Jupyter Notebook
 
 ---
